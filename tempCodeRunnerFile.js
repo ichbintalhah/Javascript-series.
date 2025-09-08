@@ -1,3 +1,1 @@
-console.log(array);
-// console.log(myArray);
-
+Object.freeze(jsUser); // makes the object immutable (cannot add, delete, or modify properties)
