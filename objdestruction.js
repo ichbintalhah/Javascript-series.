@@ -5,3 +5,4 @@ const course ={
 }
 const {courseName} = course;
 console.log(courseName);
+
