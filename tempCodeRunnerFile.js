@@ -1,1 +1,3 @@
-Object.freeze(jsUser); // makes the object immutable (cannot add, delete, or modify properties)
+user.welcomeMessage();
+user.username = "New Talha";
+user.welcomeMessage();
